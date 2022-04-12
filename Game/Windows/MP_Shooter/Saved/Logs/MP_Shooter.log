@@ -1,0 +1,1429 @@
+﻿Log file open, 04/12/22 17:11:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MP_Shooter
+LogInit: Display: Project file not found: ../../../MP_Shooter/MP_Shooter.uproject
+LogInit: Display: 	Attempting to find via project info helper.
+LogUProjectInfo: Found projects:
+LogIoDispatcher: Display: Reading toc: ../../../MP_Shooter/Content/Paks/global.utoc
+LogIoDispatcher: Display: Mounting container '../../../MP_Shooter/Content/Paks/global' in location slot 0
+LogPakFile: Display: Initialized I/O dispatcher
+LogPakFile: Display: Found Pak file ../../../MP_Shooter/Content/Paks/MP_Shooter-Windows.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../MP_Shooter/Content/Paks/MP_Shooter-Windows.pak.
+LogPakFile: PakFile PrimaryIndexSize=14694
+LogPakFile: PakFile PathHashIndexSize=37252
+LogPakFile: PakFile FullDirectoryIndexSize=36342
+LogIoDispatcher: Display: Reading toc: ../../../MP_Shooter/Content/Paks/MP_Shooter-Windows.utoc
+LogIoDispatcher: Display: Mounting container '../../../MP_Shooter/Content/Paks/MP_Shooter-Windows' in location slot 0
+LogPakFile: Display: Mounted IoStore container "../../../MP_Shooter/Content/Paks/MP_Shooter-Windows"
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../MP_Shooter/Content/Paks/MP_Shooter-Windows.pak' (chunk index -1, root '../../../') mounted
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:../../../ File:../../../MP_Shooter/Content/Paks/MP_Shooter-Windows.pak)
+LogPakFile: OnPakFileMounted2Time == 0.000049
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.111657
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin MeshModelingToolset
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin HairStrands
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Bridge
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-EarlyAccess-CL-16433597
+LogInit: Engine Version: 5.0.0-16433597+++UE5+Release-5.0-EarlyAccess
+LogInit: Compatible Engine Version: 5.0.0-16433597+++UE5+Release-5.0-EarlyAccess
+LogInit: Net CL: 16433597
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): May 24 2021 14:12:13
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0-EarlyAccess
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/johan/Documents/UnrealProjects/Multiplayer_Assignment/MP_Shooter/Game/Windows/Engine/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 32
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 7
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 44
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 26
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 10
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: AsyncLoading2 - Created: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+LogStreaming: Display: AsyncLoading2 - Initialized
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.04.12-15.11.01:085][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.04.12-15.11.01:085][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.04.12-15.11.01:085][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[r.DynamicGlobalIlluminationMethod:1]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[r.ReflectionMethod:1]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[r.Shadow.Virtual.Enable:1]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.04.12-15.11.01:086][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:1]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.04.12-15.11.01:086][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.04.12-15.11.01:093][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.04.12-15.11.01:093][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.12-15.11.01:093][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.12-15.11.01:093][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.04.12-15.11.01:093][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.12-15.11.01:093][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.04.12-15.11.01:093][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.12-15.11.01:093][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.12-15.11.01:093][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.12-15.11.01:093][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.12-15.11.01:093][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.12-15.11.01:093][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.12-15.11.01:093][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.12-15.11.01:093][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.12-15.11.01:093][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.12-15.11.01:093][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.12-15.11.01:093][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.12-15.11.01:093][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.12-15.11.01:093][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.12-15.11.01:093][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.Lumen.Reflections.Allow:1]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.Lumen.Radiosity:1]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.Lumen.ScreenProbeGather.ScreenSpaceBentNormal:1]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.12-15.11.01:094][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2022.04.12-15.11.01:094][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.12-15.11.01:094][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.04.12-15.11.01:095][  0]LogHAL: Display: Platform has ~ 16 GB [17041707008 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.12-15.11.01:095][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.04.12-15.11.01:095][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Lumen.Reflections.Allow:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Lumen.Radiosity:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Lumen.ScreenProbeGather.ScreenSpaceBentNormal:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2022.04.12-15.11.01:095][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.04.12-15.11.01:096][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.04.12-15.11.01:096][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.04.12-15.11.01:096][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.04.12-15.11.01:096][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.04.12-15.11.01:096][  0]LogInit: Computer: DESKTOP-PS6R67M
+[2022.04.12-15.11.01:096][  0]LogInit: User: johan
+[2022.04.12-15.11.01:096][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.04.12-15.11.01:096][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.12-15.11.01:096][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.04.12-15.11.01:096][  0]LogMemory: Platform Memory Stats for Windows
+[2022.04.12-15.11.01:096][  0]LogMemory: Process Physical Memory: 99.06 MB used, 99.06 MB peak
+[2022.04.12-15.11.01:096][  0]LogMemory: Process Virtual Memory: 97.68 MB used, 97.68 MB peak
+[2022.04.12-15.11.01:096][  0]LogMemory: Physical Memory: 7815.21 MB used,  8437.03 MB free, 16252.24 MB total
+[2022.04.12-15.11.01:096][  0]LogMemory: Virtual Memory: 16489.56 MB used,  15222.59 MB free, 31712.15 MB total
+[2022.04.12-15.11.01:101][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.04.12-15.11.01:101][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.04.12-15.11.01:104][  0]LogInit: Using OS detected language (en-US).
+[2022.04.12-15.11.01:104][  0]LogInit: Using OS detected locale (en-US).
+[2022.04.12-15.11.01:105][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.04.12-15.11.01:128][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.12-15.11.01:140][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.12-15.11.01:140][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.12-15.11.01:166][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.12-15.11.01:166][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.04.12-15.11.01:166][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.04.12-15.11.01:166][  0]LogD3D11RHI: D3D11 adapters:
+[2022.04.12-15.11.01:278][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_1)
+[2022.04.12-15.11.01:278][  0]LogD3D11RHI:       5991/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.04.12-15.11.01:305][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_1)
+[2022.04.12-15.11.01:305][  0]LogD3D11RHI:       128/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.04.12-15.11.01:310][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.04.12-15.11.01:310][  0]LogD3D11RHI:       0/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.04.12-15.11.01:310][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.04.12-15.11.01:314][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.04.12-15.11.01:314][  0]LogD3D11RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2022.04.12-15.11.01:314][  0]LogWindows: EnumDisplayDevices:
+[2022.04.12-15.11.01:314][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.04.12-15.11.01:314][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.04.12-15.11.01:314][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.04.12-15.11.01:314][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:1)
+[2022.04.12-15.11.01:315][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.04.12-15.11.01:315][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.04.12-15.11.01:315][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.04.12-15.11.01:315][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.04.12-15.11.01:315][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2022.04.12-15.11.01:315][  0]LogD3D11RHI:   Driver Version: 497.09 (internal:30.0.14.9709, unified:497.09)
+[2022.04.12-15.11.01:315][  0]LogD3D11RHI:      Driver Date: 11-26-2021
+[2022.04.12-15.11.01:315][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2022.04.12-15.11.01:366][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.04.12-15.11.01:366][  0]LogD3D11RHI: Async texture creation enabled
+[2022.04.12-15.11.01:366][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.04.12-15.11.01:382][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.04.12-15.11.01:383][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.04.12-15.11.01:383][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.04.12-15.11.01:398][  0]LogShaderLibrary: Display: Using ../../../MP_Shooter/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 3442 unique shaders.
+[2022.04.12-15.11.01:398][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2022.04.12-15.11.01:398][  0]LogShaderLibrary: Display: Logical shader library 'Global' has been created, components 1
+[2022.04.12-15.11.01:398][  0]LogTemp: Warning: Clearing the OS Cache
+[2022.04.12-15.11.01:398][  0]LogODSC: ODSC Thread active.
+[2022.04.12-15.11.01:400][  0]LogPakFile: New pak file ../../../MP_Shooter/Content/Paks/MP_Shooter-Windows.pak added to pak precacher.
+[2022.04.12-15.11.01:416][  0]LogSlate: Using FreeType 2.10.0
+[2022.04.12-15.11.01:417][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.12-15.11.01:464][  0]LogShaderLibrary: Display: Using ../../../MP_Shooter/Content/ShaderArchive-MP_Shooter-PCD3D_SM5.ushaderbytecode for material shader code. Total 1917 unique shaders.
+[2022.04.12-15.11.01:464][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library MP_Shooter
+[2022.04.12-15.11.01:464][  0]LogShaderLibrary: Display: Logical shader library 'MP_Shooter' has been created, components 1
+[2022.04.12-15.11.01:464][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2022.04.12-15.11.01:464][  0]LogShaderLibrary: Display: Using ../../../MP_Shooter/Content/ShaderArchive-MP_Shooter-PCD3D_SM5.ushaderbytecode for material shader code. Total 1917 unique shaders.
+[2022.04.12-15.11.01:464][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library MP_Shooter
+[2022.04.12-15.11.01:464][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2022.04.12-15.11.01:464][  0]LogRHI: Display: Failed to open default shader pipeline cache for MP_Shooter using shader platform 0.
+[2022.04.12-15.11.01:464][  0]LogInit: Using OS detected language (en-US).
+[2022.04.12-15.11.01:464][  0]LogInit: Using OS detected locale (en-US).
+[2022.04.12-15.11.01:465][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.04.12-15.11.01:465][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2022.04.12-15.11.01:465][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.04.12-15.11.01:465][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.04.12-15.11.01:467][  0]LogAssetRegistry: FAssetRegistry took 0.0012 seconds to start up
+[2022.04.12-15.11.01:535][  0]LogTextLocalizationManager: Compacting localization data took   1.46ms
+[2022.04.12-15.11.01:535][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.04.12-15.11.01:539][  0]LogSerialization: Display: AllowBulkDataInIoStore: 'true'
+[2022.04.12-15.11.01:540][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.12-15.11.01:540][  0]LogDeviceProfileManager: Active device profile: [0000025A5F78BF00][0000025A58666280 49] Windows
+[2022.04.12-15.11.01:540][  0]LogDeviceProfileManager: Profiles: [0000025A5F78BF00][0000025A58666280 49] Windows, 
+[2022.04.12-15.11.01:556][  0]LogNetVersion: MP_Shooter 1.0.0, NetCL: 16433597, EngineNetVer: 16, GameNetVer: 0 (Checksum: 342860014)
+[2022.04.12-15.11.01:585][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.12-15.11.01:585][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.12-15.11.01:586][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.04.12-15.11.01:589][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.000060 seconds
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/TextBlockHighlightShape.png' error.
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/PlainBorder.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/PlainBorder.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/WideDash_Horizontal.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/TextBlockHighlightShape.png
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/WideDash_Horizontal.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/WideDash_Vertical.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/WideDash_Vertical.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ThinLine_Horizontal.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ThinLine_Horizontal.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SearchGlass.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SearchGlass.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/VerticalPipe.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/VerticalPipe.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/X.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/X.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/UpArrow2.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/UpArrow2.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/UpArrow.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/UpArrow.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/DownArrow.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/DownArrow.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/DownArrow2.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/DownArrow2.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SubmenuArrow.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SubmenuArrow.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Check.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Check.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_mail_16x.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_mail_16x.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Button_Disabled.png' error.
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/WarningStripe.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/WarningStripe.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/icon_Help_Default_16x.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/icon_Help_Default_16x.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/icon_Help_Hover_16x.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/icon_Help_Hover_16x.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/icon_Help_Pressed_16x.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/icon_Help_Pressed_16x.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/TextBox.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/TextBox.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ComboArrow.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ComboArrow.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/TextBox_Hovered.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/TextBox_Hovered.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/TextBox_ReadOnly.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/TextBox_ReadOnly.png
+[2022.04.12-15.11.01:598][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/TextBox_Special.png' error.
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/TextBox_Special.png
+[2022.04.12-15.11.01:598][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Button_Disabled.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/TextBox_Special_Active.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/TextBox_Special_Active.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorAppIcon.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorAppIcon.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/White.png' error.
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/DashedBorder.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/DashedBorder.png
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/White.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/generic_play_16x.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/generic_play_16x.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/generic_stop_16x.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/generic_stop_16x.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/generic_pause_16x.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/generic_pause_16x.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/cursor_grab.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/cursor_grab.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/cursor_cardinal_cross.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/cursor_cardinal_cross.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/cursor_updown.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/cursor_updown.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/Border.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/Border.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/NoteBorder.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/NoteBorder.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/FilledBorder.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/FilledBorder.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/view_button.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/view_button.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/link.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/link.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/ExpansionButton_Collapsed.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/ExpansionButton_Collapsed.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/ExpansionButton_ExpandedLeft.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/ExpansionButton_ExpandedLeft.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/ExpansionButton_ExpandedRight.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/ExpansionButton_ExpandedRight.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/ExpansionButton_ExpandedMiddle.png' error.
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/UniformShadow_Tint.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/UniformShadow_Tint.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Spinbox.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Spinbox.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/UniformShadow.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/UniformShadow.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Spinbox_Hovered.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Spinbox_Hovered.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Spinbox_Fill.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Spinbox_Fill.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SpinArrows.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SpinArrows.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ThrobberPiece_Small.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ThrobberPiece_Small.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Spinbox_Fill_Hovered.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Spinbox_Fill_Hovered.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/FitVert_16x.png' error.
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Key.png' error.
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/FitHorz_16x.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Key.png
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/FitHorz_16x.png
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/FitVert_16x.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Tangent.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Tangent.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_Docs_16x.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_Docs_16x.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_file_choosepackages_16px.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_file_choosepackages_16px.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_Blueprint_Enum_16x.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_Blueprint_Enum_16x.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_world_16x.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_world_16x.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Docking/AppTabContentArea.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Docking/AppTabContentArea.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/Menu_Background.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/Menu_Background.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_locked_highlight_16px.png' error.
+[2022.04.12-15.11.01:599][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_locked_highlight_16px.png
+[2022.04.12-15.11.01:599][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_locked_16px.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_locked_16px.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_unlocked_hi_16px.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_unlocked_hi_16px.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_unlocked_16px.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_unlocked_16px.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_LockedReadOnly_16px.png' error.
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_LockedReadOnly_hi_16px.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_LockedReadOnly_16px.png
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_LockedReadOnly_hi_16px.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_Save_16px.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_Save_16px.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_Save_hi_16px.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_Save_hi_16px.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_SaveModified_16px.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_SaveModified_16px.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_SaveModified_hi_16px.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_SaveModified_hi_16px.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_SaveDisabled_16px.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_SaveDisabled_16px.png
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/ExpansionButton_ExpandedMiddle.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_SaveDisabled_hi_16px.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_SaveDisabled_hi_16px.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_Blueprint_16px.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_Blueprint_16px.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_Blueprint_hi_16px.png' error.
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/Empty_16x.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/Empty_16x.png
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_Blueprint_hi_16px.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_addlayer_16x.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_addlayer_16x.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_simulationviewpos_16x.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_simulationviewpos_16x.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_mouselocation_16x.png' error.
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_marqueerectsize_16x.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_marqueerectsize_16x.png
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_mouselocation_16x.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_worldorigin_16x.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_worldorigin_16x.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_worldsize_16x.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_worldsize_16x.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_PanRight.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_PanRight.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_PanLeft.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_PanLeft.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_PanUp.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_PanUp.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_PanDown.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_PanDown.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_blueprinttype_7x16.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_blueprinttype_7x16.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_levelsmenu_40x.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_levelsmenu_40x.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_hierarchybutton_16x.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_hierarchybutton_16x.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_detailsbutton_40x.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_detailsbutton_40x.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_levels_compositionbutton_16x.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_levels_compositionbutton_16x.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/WorldPartition/PartiallyLoadedCell.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/WorldPartition/PartiallyLoadedCell.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/WorldPartition/GridBackground.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/WorldPartition/GridBackground.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_RestoreFromImmersive_16px.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_RestoreFromImmersive_16px.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/PushPin_Down.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/PushPin_Down.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/PushPin_Up.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/PushPin_Up.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/PushPin_Down_VR.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/PushPin_Down_VR.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/PushPin_Up_VR.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/PushPin_Up_VR.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ScreenAttach_VR.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ScreenAttach_VR.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ScreenDetach_VR.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ScreenDetach_VR.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/PlusSymbol_12x.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/PlusSymbol_12x.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/Cross_12x.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/Cross_12x.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ArrowUp_12x.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ArrowUp_12x.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ArrowDown_12x.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ArrowDown_12x.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_PropertyMatrix_16px.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_PropertyMatrix_16px.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/icon_tab_SelectionDetails_16x.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/icon_tab_SelectionDetails_16x.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/TinyChalkArrow.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/TinyChalkArrow.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Starship/ContentBrowser/drop-shadow.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Starship/ContentBrowser/drop-shadow.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/HorizontalDottedLine_16x1px.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/HorizontalDottedLine_16x1px.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/PropertyView/SlateBrushPreview_32px.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/PropertyView/SlateBrushPreview_32px.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/VerticalDottedLine_1x16px.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/VerticalDottedLine_1x16px.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Selection.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Selection.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SmallArrowRight.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SmallArrowRight.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ColumnBorder.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ColumnBorder.png
+[2022.04.12-15.11.01:600][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/CellBorder.png' error.
+[2022.04.12-15.11.01:600][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/CellBorder.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ReadOnlyEditModeCellBorder.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ReadOnlyEditModeCellBorder.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ReadOnlyCellBorder.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ReadOnlyCellBorder.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/CurrentCellBorder.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/CurrentCellBorder.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ReadOnlySelectedCellBorder.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ReadOnlySelectedCellBorder.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ReadOnlyCurrentCellBorder.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ReadOnlyCurrentCellBorder.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/GroupBorder.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/GroupBorder.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/FilterSearch.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/FilterSearch.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/FilterCancel.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/FilterCancel.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EmptyStar_16x.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EmptyStar_16x.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/PropertyView/CategoryBackground.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/PropertyView/CategoryBackground.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ellipsis_12x.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ellipsis_12x.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/pillarray_12x.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/pillarray_12x.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/levels_16x.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/levels_16x.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/eyedropper_16px.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/eyedropper_16px.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/EditableTextSelectionBackground.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/EditableTextSelectionBackground.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/PropertyView/Favorites_Enabled.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/PropertyView/Favorites_Enabled.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/PropertyView/Favorites_Disabled.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/PropertyView/Favorites_Disabled.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/PropertyView/NoFavoritesSystem.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/PropertyView/NoFavoritesSystem.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ScrollBoxShadowTop.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ScrollBoxShadowTop.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ArrayDropShadow.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ArrayDropShadow.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/VerticalBoxDropZoneIndicator_Below.png' error.
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ButtonHoverHint.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ButtonHoverHint.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Button/simple_sharp_normal.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Button/simple_sharp_normal.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Button/simple_sharp_hovered.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Button/simple_sharp_hovered.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Button/simple_round_normal.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Button/simple_round_normal.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Button/simple_round_hovered.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Button/simple_round_hovered.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/RoundedSelection_16x.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/RoundedSelection_16x.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/FlatButton.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/FlatButton.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/CheckBox.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/CheckBox.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/CheckBox_Hovered.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/CheckBox_Hovered.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/CheckBox_Checked_Hovered.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/CheckBox_Checked_Hovered.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/CheckBox_Checked.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/CheckBox_Checked.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/CheckBox_Undetermined.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/CheckBox_Undetermined.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/CheckBox_Undetermined_Hovered.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/CheckBox_Undetermined_Hovered.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ShadowComboArrow.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ShadowComboArrow.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/TextBox_Special_Hovered.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/TextBox_Special_Hovered.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/Selector.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/Selector.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/PropertyView/DetailCategoryMiddle_Hovered.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/PropertyView/DetailCategoryMiddle_Hovered.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/PropertyView/DetailCategoryMiddle.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/PropertyView/DetailCategoryMiddle.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Pause_24x_OFF.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Pause_24x_OFF.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Pause_24x.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Pause_24x.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Play_24x_OFF.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Play_24x_OFF.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Play_24x.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Play_24x.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Step_Forward_24x.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Step_Forward_24x.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Step_Forward_24x_OFF.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Step_Forward_24x_OFF.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Go_To_End_24x_OFF.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Go_To_End_24x_OFF.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Go_To_End_24x.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Go_To_End_24x.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Backwards_24x_OFF.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Backwards_24x_OFF.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Backwards_24x.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Backwards_24x.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Step_Backwards_24x_OFF.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Step_Backwards_24x_OFF.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Go_To_Front_24x_OFF.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Go_To_Front_24x_OFF.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Step_Backwards_24x.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Step_Backwards_24x.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Go_To_Front_24x.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Go_To_Front_24x.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_24x_OFF.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_24x_OFF.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_24x.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_24x.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_Toggle_24x_OFF.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_Toggle_24x_OFF.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_Toggle_24x.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_Toggle_24x.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_SelectionRange_24x_OFF.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_SelectionRange_24x_OFF.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_SelectionRange_24x.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Loop_SelectionRange_24x.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Record_24x.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Record_24x.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Record_24x_OFF.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Record_24x_OFF.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Recording_24x_OFF.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Recording_24x_OFF.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Recording_24x.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Sequencer/Transport_Bar/Recording_24x.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Starship/EditorViewport/ToolBarLeftGroup.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Starship/EditorViewport/ToolBarLeftGroup.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Starship/EditorViewport/ToolBarMiddleGroup.png' error.
+[2022.04.12-15.11.01:601][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Starship/EditorViewport/ToolBarMiddleGroup.png
+[2022.04.12-15.11.01:601][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Starship/EditorViewport/ToolBarRightGroup.png' error.
+[2022.04.12-15.11.01:602][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/toolbar_expand_16x.png' error.
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Starship/EditorViewport/ToolBarRightGroup.png
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/toolbar_expand_16x.png
+[2022.04.12-15.11.01:602][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SmallRoundedButton.png' error.
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SmallRoundedButton.png
+[2022.04.12-15.11.01:602][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SmallRoundedButtonCentre.png' error.
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SmallRoundedButtonCentre.png
+[2022.04.12-15.11.01:602][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SmallRoundedButtonLeft.png' error.
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SmallRoundedButtonLeft.png
+[2022.04.12-15.11.01:602][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SmallRoundedButtonRight.png' error.
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SmallRoundedButtonRight.png
+[2022.04.12-15.11.01:602][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/Button.png' error.
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/Button.png
+[2022.04.12-15.11.01:602][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SortDownArrow.png' error.
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SortDownArrow.png
+[2022.04.12-15.11.01:602][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SortUpArrow.png' error.
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SortUpArrow.png
+[2022.04.12-15.11.01:602][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SortUpArrows.png' error.
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SortUpArrows.png
+[2022.04.12-15.11.01:602][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ColumnHeader.png' error.
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ColumnHeader.png
+[2022.04.12-15.11.01:602][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/SortDownArrows.png' error.
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/SortDownArrows.png
+[2022.04.12-15.11.01:602][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ColumnHeader_Hovered.png' error.
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ColumnHeader_Hovered.png
+[2022.04.12-15.11.01:602][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ColumnHeader_Arrow.png' error.
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ColumnHeader_Arrow.png
+[2022.04.12-15.11.01:602][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ColumnHeaderMenuButton_Normal.png' error.
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ColumnHeaderMenuButton_Normal.png
+[2022.04.12-15.11.01:602][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/ColumnHeaderMenuButton_Hovered.png' error.
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/ColumnHeaderMenuButton_Hovered.png
+[2022.04.12-15.11.01:602][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/LastColumnHeader_Hovered.png' error.
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/LastColumnHeader_Hovered.png
+[2022.04.12-15.11.01:602][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/HeaderSplitterGrip.png' error.
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/HeaderSplitterGrip.png
+[2022.04.12-15.11.01:602][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Common/TableViewHeader.png' error.
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/TableViewHeader.png
+[2022.04.12-15.11.01:602][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/HyperlinkDotted.png' error.
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/HyperlinkDotted.png
+[2022.04.12-15.11.01:602][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Old/HyperlinkUnderline.png' error.
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Old/HyperlinkUnderline.png
+[2022.04.12-15.11.01:602][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Common/VerticalBoxDropZoneIndicator_Below.png
+[2022.04.12-15.11.01:602][  0]LogMoviePlayer: Initializing movie player
+[2022.04.12-15.11.01:603][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.12-15.11.01:604][  0]LogOcInput: OculusInput pre-init called
+[2022.04.12-15.11.01:607][  0]LogUObjectArray: 16920 objects as part of root set at end of initial load.
+[2022.04.12-15.11.01:607][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2022.04.12-15.11.01:607][  0]LogUObjectAllocator: 3389080 out of 0 bytes used by permanent object pool.
+[2022.04.12-15.11.01:607][  0]LogUObjectArray: CloseDisregardForGC: 16920/16920 objects in disregard for GC pool
+[2022.04.12-15.11.01:607][  0]LogStreaming: Display: AsyncLoading2 - Thread Started: true, IsInitialLoad: false
+[2022.04.12-15.11.01:608][  0]LogEngine: Initializing Engine...
+[2022.04.12-15.11.01:609][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.12-15.11.01:610][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.04.12-15.11.01:651][  0]LogStreaming: Display: AsyncLoading2 - InitialLoad Finalized: 16455 script object entries in 454.27 KB
+[2022.04.12-15.11.01:651][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.12-15.11.01:651][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.04.12-15.11.01:651][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.04.12-15.11.01:651][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.04.12-15.11.01:651][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.12-15.11.01:651][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.12-15.11.01:651][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.12-15.11.01:651][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.12-15.11.01:651][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.12-15.11.01:651][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.12-15.11.01:651][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.12-15.11.01:651][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.12-15.11.01:651][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.12-15.11.01:651][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.12-15.11.01:708][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.04.12-15.11.01:714][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.12-15.11.01:714][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.04.12-15.11.01:911][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.04.12-15.11.01:912][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.12-15.11.01:912][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.12-15.11.01:912][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.12-15.11.01:913][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.12-15.11.01:913][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.12-15.11.01:913][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.12-15.11.01:913][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.12-15.11.01:913][  0]LogInit: FAudioDevice initialized.
+[2022.04.12-15.11.01:914][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.12-15.11.01:914][  0]LogInit: Texture streaming: Enabled
+[2022.04.12-15.11.01:919][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.04.12-15.11.01:919][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.12-15.11.01:920][  0]LogInit: Display: Game Engine Initialized.
+[2022.04.12-15.11.01:920][  0]LogInit: Display: Starting Game.
+[2022.04.12-15.11.01:920][  0]LogNet: Browse: /Game/MainMenu/MainMenuLevel?Name=Player
+[2022.04.12-15.11.01:920][  0]LogLoad: LoadMap: /Game/MainMenu/MainMenuLevel?Name=Player
+[2022.04.12-15.11.01:920][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.04.12-15.11.01:920][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.04.12-15.11.01:920][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-15.11.01:922][  0]LogStreaming: Display: 0.002 ms for skipping 25 objects in NotifyUnreachableObjects (Queued=0, Async=0).
+[2022.04.12-15.11.01:923][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.12-15.11.01:925][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.04.12-15.11.01:933][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2022.04.12-15.11.01:934][  0]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.04.12-15.11.01:934][  0]LogLoad: Game class is 'MainMenuGM_C'
+[2022.04.12-15.11.01:936][  0]LogWorld: Bringing World /Game/MainMenu/MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.04.12-17.11.01
+[2022.04.12-15.11.01:936][  0]LogWorld: Bringing up level for play took: 0.001250
+[2022.04.12-15.11.01:937][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.12-15.11.01:937][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.12-15.11.01:937][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.12-15.11.01:938][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.12-15.11.01:938][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.12-15.11.01:939][  0]LogLoad: Took 0.018307 seconds to LoadMap(/Game/MainMenu/MainMenuLevel)
+[2022.04.12-15.11.01:939][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2022.04.12-15.11.01:987][  0]LogRHI: Display: ShaderPipelineCache: Paused Batching. 1
+[2022.04.12-15.11.01:987][  0]LogPakFile: AllPaks IndexSizes: DirectoryHashSize=134936, PathHashSize=16, EntriesSize=16368, TotalSize=151320
+[2022.04.12-15.11.01:987][  0]LogRHI: Display: ShaderPipelineCache: Resumed Batching. 0
+[2022.04.12-15.11.01:987][  0]LogRHI: Display: ShaderPipelineCache: Batching Resumed.
+[2022.04.12-15.11.01:987][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.04.12-15.11.01:987][  0]LogLoad: (Engine Initialization) Total time: 1.24 seconds
+[2022.04.12-15.11.02:018][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.04.12-15.11.02:022][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-15.11.02:534][  0]LogSlate: Slate font cache was flushed
+[2022.04.12-15.11.02:537][  1]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.12-15.11.02:538][  1]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2022.04.12-15.11.16:552][ 24]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.04.12-15.11.16:553][ 24]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.04.12-15.11.16:553][ 24]LogNet: Browse: 192.168.1.101:1986/Game/MainMenu/MainMenuLevel
+[2022.04.12-15.11.16:553][ 24]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.04.12-15.11.16:553][ 24]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.04.12-15.11.16:553][ 24]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.04.12-15.11.16:553][ 24]LogNet: Game client on port 1986, rate 100000
+[2022.04.12-15.11.18:016][133]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?listen
+[2022.04.12-15.11.18:016][133]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?listen
+[2022.04.12-15.11.18:016][133]LogWorld: BeginTearingDown for /Game/MainMenu/MainMenuLevel
+[2022.04.12-15.11.18:016][133]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.04.12-15.11.18:017][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-15.11.18:041][133]LogStreaming: Display: 0.060 ms (0.035+0.025) ms for processing 50/455 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 14/14 (106->92 tracked) packages and 36/36 (156->120 tracked) public exports.
+[2022.04.12-15.11.18:043][133]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.12-15.11.18:045][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.04.12-15.11.18:053][133]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.04.12-15.11.18:068][133]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.04.12-15.11.18:069][133]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.12-15.11.18:069][133]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.04.12-15.11.18:069][133]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.04.12-15.11.18:069][133]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.04.12-15.11.18:069][133]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2022.04.12-15.11.18:069][133]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.04.12-15.11.18:069][133]LogNet: GameNetDriver IpNetDriver_2147482486 IpNetDriver listening on port 7777
+[2022.04.12-15.11.18:069][133]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.12-15.11.18:072][133]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.12-17.11.18
+[2022.04.12-15.11.18:072][133]LogWorld: Bringing up level for play took: 0.002493
+[2022.04.12-15.11.18:072][133]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.04.12-15.11.18:073][133]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Health: PlayerController_2147482467100.0
+[2022.04.12-15.11.18:074][133]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Health: PlayerController_2147482467100.0
+[2022.04.12-15.11.18:076][133]LogLoad: Took 0.059602 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2022.04.12-15.11.23:476][377]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 19.95636
+[2022.04.12-15.11.24:900][452]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 19.096043
+[2022.04.12-15.11.25:070][461]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 11.048311
+[2022.04.12-15.11.32:237][842]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 14.159673
+[2022.04.12-15.11.34:479][961]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 11.666005
+[2022.04.12-15.11.35:113][995]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 12.390514
+[2022.04.12-15.11.35:585][ 20]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 14.192022
+[2022.04.12-15.11.36:581][ 76]LogNet: Warning: UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 20.00, Real: 20.01, Good: 20.01, DriverTime: 20.01, Threshold: 20.00, [UNetConnection] RemoteAddr: 192.168.1.101:1986, Name: IpConnection_2147482507, Driver: PendingNetDriver IpNetDriver_2147482508, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.04.12-15.11.36:581][ 76]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionTimeout, ErrorString = UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 20.00, Real: 20.01, Good: 20.01, DriverTime: 20.01, Threshold: 20.00, [UNetConnection] RemoteAddr: 192.168.1.101:1986, Name: IpConnection_2147482507, Driver: PendingNetDriver IpNetDriver_2147482508, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID, Driver = PendingNetDriver IpNetDriver_2147482508
+[2022.04.12-15.11.36:581][ 76]LogNet: Warning: Network Failure: PendingNetDriver[ConnectionTimeout]: UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 20.00, Real: 20.01, Good: 20.01, DriverTime: 20.01, Threshold: 20.00, [UNetConnection] RemoteAddr: 192.168.1.101:1986, Name: IpConnection_2147482507, Driver: PendingNetDriver IpNetDriver_2147482508, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.04.12-15.11.36:581][ 76]LogNet: NetworkFailure: ConnectionTimeout, Error: 'UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 20.00, Real: 20.01, Good: 20.01, DriverTime: 20.01, Threshold: 20.00, [UNetConnection] RemoteAddr: 192.168.1.101:1986, Name: IpConnection_2147482507, Driver: PendingNetDriver IpNetDriver_2147482508, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID'
+[2022.04.12-15.11.36:581][ 76]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.1.101:1986, Name: IpConnection_2147482507, Driver: PendingNetDriver IpNetDriver_2147482508, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID, Channels: 2, Time: 2022.04.12-15.11.36
+[2022.04.12-15.11.36:581][ 76]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.101:1986, Name: IpConnection_2147482507, Driver: PendingNetDriver IpNetDriver_2147482508, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.04.12-15.11.36:581][ 76]LogNet: DestroyNamedNetDriver IpNetDriver_2147482508 [PendingNetDriver]
+[2022.04.12-15.11.36:581][ 76]LogExit: PendingNetDriver IpNetDriver_2147482508 shut down
+[2022.04.12-15.11.36:597][ 77]LogNet: Browse: /Game/MainMenu/MainMenuLevel?closed
+[2022.04.12-15.11.36:598][ 77]LogNet: Connection failed; returning to Entry
+[2022.04.12-15.11.36:598][ 77]LogLoad: LoadMap: /Game/MainMenu/MainMenuLevel?closed
+[2022.04.12-15.11.36:598][ 77]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2022.04.12-15.11.36:598][ 77]LogNet: World NetDriver shutdown IpNetDriver_2147482486 [GameNetDriver]
+[2022.04.12-15.11.36:598][ 77]LogNet: DestroyNamedNetDriver IpNetDriver_2147482486 [GameNetDriver]
+[2022.04.12-15.11.36:598][ 77]LogExit: GameNetDriver IpNetDriver_2147482486 shut down
+[2022.04.12-15.11.36:598][ 77]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.12-15.11.36:598][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-15.11.36:621][ 77]LogStreaming: Display: 0.155 ms (0.072+0.083) ms for processing 194/446 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 56/56 (148->92 tracked) packages and 138/138 (258->120 tracked) public exports.
+[2022.04.12-15.11.36:622][ 77]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.12-15.11.36:623][ 77]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.101:1986, Name: None, Driver: PendingNetDriver None, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.04.12-15.11.36:624][ 77]LogNet: UNetConnection::PendingConnectionLost. [UNetConnection] RemoteAddr: 192.168.1.101:1986, Name: None, Driver: PendingNetDriver None, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID bPendingDestroy=0 
+[2022.04.12-15.11.36:635][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.04.12-15.11.36:647][ 77]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.04.12-15.11.36:650][ 77]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2022.04.12-15.11.36:651][ 77]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.04.12-15.11.36:651][ 77]LogLoad: Game class is 'MainMenuGM_C'
+[2022.04.12-15.11.36:652][ 77]LogWorld: Bringing World /Game/MainMenu/MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.04.12-17.11.36
+[2022.04.12-15.11.36:652][ 77]LogWorld: Bringing up level for play took: 0.000826
+[2022.04.12-15.11.36:653][ 77]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.12-15.11.36:653][ 77]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.12-15.11.36:653][ 77]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.12-15.11.36:653][ 77]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.12-15.11.36:653][ 77]LogLoad: Took 0.055644 seconds to LoadMap(/Game/MainMenu/MainMenuLevel)
+[2022.04.12-15.11.36:655][ 77]LogStreaming: Display: 0.002 ms for skipping 5 objects in NotifyUnreachableObjects (Queued=0, Async=0).
+[2022.04.12-15.11.36:676][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.04.12-15.11.41:001][392]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.04.12-15.11.41:001][392]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.04.12-15.11.41:001][392]LogNet: Browse: 192.168.1.101:1986/Game/MainMenu/MainMenuLevel
+[2022.04.12-15.11.41:001][392]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.04.12-15.11.41:001][392]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.04.12-15.11.41:001][392]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.04.12-15.11.41:001][392]LogNet: Game client on port 1986, rate 100000
+[2022.04.12-15.11.42:207][479]LogNet: Browse: 192.168.1.101:1986/Game/MainMenu/MainMenuLevel
+[2022.04.12-15.11.42:207][479]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.1.101:1986, Name: IpConnection_2147482394, Driver: PendingNetDriver IpNetDriver_2147482395, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID, Channels: 2, Time: 2022.04.12-15.11.42
+[2022.04.12-15.11.42:207][479]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.101:1986, Name: IpConnection_2147482394, Driver: PendingNetDriver IpNetDriver_2147482395, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.04.12-15.11.42:207][479]LogNet: DestroyNamedNetDriver IpNetDriver_2147482395 [PendingNetDriver]
+[2022.04.12-15.11.42:207][479]LogExit: PendingNetDriver IpNetDriver_2147482395 shut down
+[2022.04.12-15.11.42:207][479]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.04.12-15.11.42:208][479]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.04.12-15.11.42:208][479]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.04.12-15.11.42:208][479]LogNet: Game client on port 1986, rate 100000
+[2022.04.12-15.11.43:201][551]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?listen
+[2022.04.12-15.11.43:201][551]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?listen
+[2022.04.12-15.11.43:201][551]LogWorld: BeginTearingDown for /Game/MainMenu/MainMenuLevel
+[2022.04.12-15.11.43:202][551]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.04.12-15.11.43:202][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-15.11.43:238][551]LogAudio: Display: Waited 35.594002 ms for audio thread.
+[2022.04.12-15.11.43:239][551]LogAudio: Display: Waited 37.005501 ms for audio thread.
+[2022.04.12-15.11.43:240][551]LogStreaming: Display: 0.046 ms (0.027+0.019) ms for processing 50/456 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 14/14 (106->92 tracked) packages and 36/36 (156->120 tracked) public exports.
+[2022.04.12-15.11.43:241][551]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.101:1986, Name: IpConnection_2147482394, Driver: PendingNetDriver IpNetDriver_2147482395, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.04.12-15.11.43:242][551]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.12-15.11.43:242][551]LogNet: UNetConnection::PendingConnectionLost. [UNetConnection] RemoteAddr: 192.168.1.101:1986, Name: None, Driver: PendingNetDriver None, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID bPendingDestroy=0 
+[2022.04.12-15.11.43:244][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.04.12-15.11.43:246][551]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.04.12-15.11.43:261][551]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.04.12-15.11.43:262][551]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.12-15.11.43:262][551]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.04.12-15.11.43:262][551]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.04.12-15.11.43:262][551]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.04.12-15.11.43:262][551]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2022.04.12-15.11.43:262][551]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.04.12-15.11.43:262][551]LogNet: GameNetDriver IpNetDriver_2147482367 IpNetDriver listening on port 7777
+[2022.04.12-15.11.43:262][551]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.12-15.11.43:263][551]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.12-17.11.43
+[2022.04.12-15.11.43:264][551]LogWorld: Bringing up level for play took: 0.001124
+[2022.04.12-15.11.43:264][551]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.04.12-15.11.43:264][551]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Health: PlayerController_2147482349100.0
+[2022.04.12-15.11.43:264][551]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Health: PlayerController_2147482349100.0
+[2022.04.12-15.11.43:265][551]LogLoad: Took 0.064073 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2022.04.12-15.12.02:229][564]LogNet: Warning: UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 20.00, Real: 20.01, Good: 20.01, DriverTime: 20.01, Threshold: 20.00, [UNetConnection] RemoteAddr: 192.168.1.101:1986, Name: IpConnection_2147482388, Driver: PendingNetDriver IpNetDriver_2147482389, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.04.12-15.12.02:229][564]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionTimeout, ErrorString = UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 20.00, Real: 20.01, Good: 20.01, DriverTime: 20.01, Threshold: 20.00, [UNetConnection] RemoteAddr: 192.168.1.101:1986, Name: IpConnection_2147482388, Driver: PendingNetDriver IpNetDriver_2147482389, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID, Driver = PendingNetDriver IpNetDriver_2147482389
+[2022.04.12-15.12.02:229][564]LogNet: Warning: Network Failure: PendingNetDriver[ConnectionTimeout]: UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 20.00, Real: 20.01, Good: 20.01, DriverTime: 20.01, Threshold: 20.00, [UNetConnection] RemoteAddr: 192.168.1.101:1986, Name: IpConnection_2147482388, Driver: PendingNetDriver IpNetDriver_2147482389, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.04.12-15.12.02:229][564]LogNet: NetworkFailure: ConnectionTimeout, Error: 'UNetConnection::Tick: Connection TIMED OUT. Closing connection.. Elapsed: 20.00, Real: 20.01, Good: 20.01, DriverTime: 20.01, Threshold: 20.00, [UNetConnection] RemoteAddr: 192.168.1.101:1986, Name: IpConnection_2147482388, Driver: PendingNetDriver IpNetDriver_2147482389, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID'
+[2022.04.12-15.12.02:229][564]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.1.101:1986, Name: IpConnection_2147482388, Driver: PendingNetDriver IpNetDriver_2147482389, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID, Channels: 2, Time: 2022.04.12-15.12.02
+[2022.04.12-15.12.02:229][564]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.101:1986, Name: IpConnection_2147482388, Driver: PendingNetDriver IpNetDriver_2147482389, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.04.12-15.12.02:229][564]LogNet: DestroyNamedNetDriver IpNetDriver_2147482389 [PendingNetDriver]
+[2022.04.12-15.12.02:229][564]LogExit: PendingNetDriver IpNetDriver_2147482389 shut down
+[2022.04.12-15.12.02:248][565]LogNet: Browse: /Game/MainMenu/MainMenuLevel?closed
+[2022.04.12-15.12.02:248][565]LogNet: Connection failed; returning to Entry
+[2022.04.12-15.12.02:248][565]LogLoad: LoadMap: /Game/MainMenu/MainMenuLevel?closed
+[2022.04.12-15.12.02:248][565]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2022.04.12-15.12.02:248][565]LogNet: World NetDriver shutdown IpNetDriver_2147482367 [GameNetDriver]
+[2022.04.12-15.12.02:248][565]LogNet: DestroyNamedNetDriver IpNetDriver_2147482367 [GameNetDriver]
+[2022.04.12-15.12.02:248][565]LogExit: GameNetDriver IpNetDriver_2147482367 shut down
+[2022.04.12-15.12.02:248][565]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.12-15.12.02:249][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-15.12.02:270][565]LogStreaming: Display: 0.145 ms (0.065+0.080) ms for processing 194/446 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 56/56 (148->92 tracked) packages and 138/138 (258->120 tracked) public exports.
+[2022.04.12-15.12.02:271][565]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.101:1986, Name: IpConnection_2147482388, Driver: PendingNetDriver IpNetDriver_2147482389, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.04.12-15.12.02:271][565]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.12-15.12.02:271][565]LogNet: UNetConnection::PendingConnectionLost. [UNetConnection] RemoteAddr: 192.168.1.101:1986, Name: None, Driver: PendingNetDriver None, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID bPendingDestroy=0 
+[2022.04.12-15.12.02:284][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.04.12-15.12.02:297][565]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.04.12-15.12.02:301][565]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2022.04.12-15.12.02:302][565]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.04.12-15.12.02:302][565]LogLoad: Game class is 'MainMenuGM_C'
+[2022.04.12-15.12.02:303][565]LogWorld: Bringing World /Game/MainMenu/MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2022.04.12-17.12.02
+[2022.04.12-15.12.02:303][565]LogWorld: Bringing up level for play took: 0.000980
+[2022.04.12-15.12.02:303][565]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.12-15.12.02:303][565]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.12-15.12.02:303][565]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.12-15.12.02:304][565]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.12-15.12.02:304][565]LogLoad: Took 0.057170 seconds to LoadMap(/Game/MainMenu/MainMenuLevel)
+[2022.04.12-15.12.02:305][565]LogStreaming: Display: 0.002 ms for skipping 5 objects in NotifyUnreachableObjects (Queued=0, Async=0).
+[2022.04.12-15.12.02:327][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.12-15.12.03:124][622]LogStreaming: Display: 0.001 ms for skipping 0 objects in NotifyUnreachableObjects (Queued=0, Async=0).
+[2022.04.12-15.12.15:464][509]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.04.12-15.12.15:464][509]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.04.12-15.12.15:464][509]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?listen
+[2022.04.12-15.12.15:464][509]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?listen
+[2022.04.12-15.12.15:464][509]LogWorld: BeginTearingDown for /Game/MainMenu/MainMenuLevel
+[2022.04.12-15.12.15:465][509]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.04.12-15.12.15:465][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-15.12.15:491][509]LogStreaming: Display: 0.075 ms (0.044+0.031) ms for processing 50/449 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 14/14 (106->92 tracked) packages and 36/36 (156->120 tracked) public exports.
+[2022.04.12-15.12.15:492][509]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.12-15.12.15:493][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.04.12-15.12.15:503][509]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.04.12-15.12.15:517][509]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.04.12-15.12.15:518][509]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.12-15.12.15:518][509]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.12-15.12.15:518][509]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.04.12-15.12.15:518][509]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.04.12-15.12.15:519][509]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.04.12-15.12.15:519][509]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2022.04.12-15.12.15:519][509]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.04.12-15.12.15:519][509]LogNet: GameNetDriver IpNetDriver_2147482257 IpNetDriver listening on port 7777
+[2022.04.12-15.12.15:520][509]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.12-17.12.15
+[2022.04.12-15.12.15:520][509]LogWorld: Bringing up level for play took: 0.001121
+[2022.04.12-15.12.15:520][509]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.04.12-15.12.15:520][509]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Health: PlayerController_2147482243100.0
+[2022.04.12-15.12.15:521][509]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Health: PlayerController_2147482243100.0
+[2022.04.12-15.12.15:521][509]LogLoad: Took 0.057497 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2022.04.12-15.12.28:127][207]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 19.863888
+[2022.04.12-15.12.43:295][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.062563
+[2022.04.12-15.12.44:026][ 38]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 19.900204
+[2022.04.12-15.12.45:083][ 91]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 19.370403
+[2022.04.12-15.12.45:653][121]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 19.673145
+[2022.04.12-15.12.48:963][297]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 12.918791
+[2022.04.12-15.12.49:735][337]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 13.349101
+[2022.04.12-15.12.50:902][396]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 13.493759
+[2022.04.12-15.12.51:630][435]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 17.322916
+[2022.04.12-15.12.52:056][458]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 12.338939
+[2022.04.12-15.12.52:361][475]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 14.905545
+[2022.04.12-15.12.52:586][487]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 17.988831
+[2022.04.12-15.12.54:341][580]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.506302
+[2022.04.12-15.12.54:797][604]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10.302134
+[2022.04.12-15.12.57:286][734]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 15.913877
+[2022.04.12-15.13.04:226][ 93]LogStreaming: Display: 0.010 ms (0.002+0.007) ms for processing 7/12 objects in NotifyUnreachableObjects( Queued=0, Async=0). Removed 0/0 (148->148 tracked) packages and 7/7 (258->251 tracked) public exports.
+[2022.04.12-15.14.00:651][ 51]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Sprint
+[2022.04.12-15.14.02:150][127]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Walk
+[2022.04.12-15.14.02:687][154]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Sprint
+[2022.04.12-15.14.03:097][174]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Walk
+[2022.04.12-15.14.05:343][287]LogStreaming: Display: 0.001 ms for skipping 0 objects in NotifyUnreachableObjects (Queued=0, Async=0).
+[2022.04.12-15.14.06:199][331]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 18.55617
+[2022.04.12-15.14.06:410][342]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 16.112247
+[2022.04.12-15.14.06:561][350]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 17.538681
+[2022.04.12-15.14.19:348][ 12]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 19.121067
+[2022.04.12-15.14.19:567][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 15.389568
+[2022.04.12-15.14.31:989][671]LogWindowsDesktop: Alt-F4 pressed!
+[2022.04.12-15.14.31:989][671]LogSlate: Request Window 'MP_Shooter (64-bit Development PCD3D_SM5) ' being destroyed
+[2022.04.12-15.14.32:027][671]LogSlate: Window 'MP_Shooter (64-bit Development PCD3D_SM5) ' being destroyed
+[2022.04.12-15.14.32:027][671]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.12-15.14.32:031][671]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2022.04.12-15.14.32:031][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.12-15.14.32:031][671]LogEngine: All Windows Closed
+[2022.04.12-15.14.32:031][671]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.04.12-15.14.32:031][671]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.04.12-15.14.32:032][672]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.04.12-15.14.32:032][672]LogInit: Display: PreExit Game.
+[2022.04.12-15.14.32:042][672]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2022.04.12-15.14.32:042][672]LogNet: World NetDriver shutdown IpNetDriver_2147482257 [GameNetDriver]
+[2022.04.12-15.14.32:042][672]LogNet: DestroyNamedNetDriver IpNetDriver_2147482257 [GameNetDriver]
+[2022.04.12-15.14.32:042][672]LogExit: GameNetDriver IpNetDriver_2147482257 shut down
+[2022.04.12-15.14.32:043][672]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.12-15.14.32:043][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-15.14.32:722][672]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.04.12-15.14.32:722][672]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.04.12-15.14.32:722][672]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonExampleMap'.
+[2022.04.12-15.14.32:724][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.12-15.14.32:725][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.12-15.14.32:748][672]LogAudio: Display: Audio Device Manager Shutdown
+[2022.04.12-15.14.32:750][672]LogExit: Preparing to exit.
+[2022.04.12-15.14.32:750][672]LogMoviePlayer: Shutting down movie player
+[2022.04.12-15.14.32:753][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.12-15.14.32:765][672]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.04.12-15.14.32:768][672]LogExit: Game engine shut down
+[2022.04.12-15.14.32:786][672]LogExit: Object subsystem successfully closed.
+[2022.04.12-15.14.32:795][672]LogModuleManager: Shutting down and abandoning module AutomationController (338)
+[2022.04.12-15.14.32:795][672]LogModuleManager: Shutting down and abandoning module AutomationWorker (336)
+[2022.04.12-15.14.32:795][672]LogModuleManager: Shutting down and abandoning module Voice (334)
+[2022.04.12-15.14.32:795][672]LogModuleManager: Shutting down and abandoning module AIModule (332)
+[2022.04.12-15.14.32:795][672]LogModuleManager: Shutting down and abandoning module GameplayDebugger (331)
+[2022.04.12-15.14.32:795][672]LogModuleManager: Shutting down and abandoning module NavigationSystem (329)
+[2022.04.12-15.14.32:795][672]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (326)
+[2022.04.12-15.14.32:795][672]LogModuleManager: Shutting down and abandoning module WebMMedia (324)
+[2022.04.12-15.14.32:795][672]LogModuleManager: Shutting down and abandoning module OculusMR (322)
+[2022.04.12-15.14.32:795][672]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (320)
+[2022.04.12-15.14.32:795][672]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (318)
+[2022.04.12-15.14.32:795][672]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (316)
+[2022.04.12-15.14.32:795][672]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (314)
+[2022.04.12-15.14.32:795][672]LogModuleManager: Shutting down and abandoning module CharacterAI (312)
+[2022.04.12-15.14.32:795][672]LogModuleManager: Shutting down and abandoning module PlanarCut (310)
+[2022.04.12-15.14.32:795][672]LogModuleManager: Shutting down and abandoning module SessionServices (308)
+[2022.04.12-15.14.32:795][672]LogModuleManager: Shutting down and abandoning module LiveCoding (306)
+[2022.04.12-15.14.32:795][672]LogModuleManager: Shutting down and abandoning module LevelSequence (304)
+[2022.04.12-15.14.32:795][672]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (302)
+[2022.04.12-15.14.32:795][672]LogModuleManager: Shutting down and abandoning module MovieScene (300)
+[2022.04.12-15.14.32:797][672]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (298)
+[2022.04.12-15.14.32:797][672]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (296)
+[2022.04.12-15.14.32:797][672]LogModuleManager: Shutting down and abandoning module AudioMixerCore (295)
+[2022.04.12-15.14.32:797][672]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (292)
+[2022.04.12-15.14.32:797][672]LogModuleManager: Shutting down and abandoning module TypedElementFramework (290)
+[2022.04.12-15.14.32:797][672]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (288)
+[2022.04.12-15.14.32:797][672]LogModuleManager: Shutting down and abandoning module ProfilerService (286)
+[2022.04.12-15.14.33:024][672]LogModuleManager: Shutting down and abandoning module TaskGraph (284)
+[2022.04.12-15.14.33:024][672]LogModuleManager: Shutting down and abandoning module Synthesis (282)
+[2022.04.12-15.14.33:024][672]LogModuleManager: Shutting down and abandoning module OculusInput (280)
+[2022.04.12-15.14.33:024][672]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (278)
+[2022.04.12-15.14.33:024][672]LogModuleManager: Shutting down and abandoning module GooglePAD (276)
+[2022.04.12-15.14.33:024][672]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (274)
+[2022.04.12-15.14.33:024][672]LogModuleManager: Shutting down and abandoning module CableComponent (272)
+[2022.04.12-15.14.33:024][672]LogModuleManager: Shutting down and abandoning module AudioCapture (270)
+[2022.04.12-15.14.33:024][672]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (269)
+[2022.04.12-15.14.33:024][672]LogModuleManager: Shutting down and abandoning module AssetTags (266)
+[2022.04.12-15.14.33:024][672]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (264)
+[2022.04.12-15.14.33:024][672]LogModuleManager: Shutting down and abandoning module AppleImageUtils (262)
+[2022.04.12-15.14.33:024][672]LogModuleManager: Shutting down and abandoning module AndroidPermission (260)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (258)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module MediaCompositing (256)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module ImgMedia (254)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (252)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (250)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (248)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (246)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (244)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module MotoSynth (242)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module ChaosNiagara (240)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module MeshModelingTools (238)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module ModelingOperators (236)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module ModelingComponents (234)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (232)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (230)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module MeshConversion (228)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module DynamicMesh (226)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (224)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module GeometricObjects (222)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module BackChannel (220)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module AutomationUtils (218)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (216)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module GeometryCache (214)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module UObjectPlugin (212)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module TemplateSequence (210)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module GameplayCameras (208)
+[2022.04.12-15.14.33:025][672]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (206)
+[2022.04.12-15.14.33:026][672]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (205)
+[2022.04.12-15.14.33:026][672]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (202)
+[2022.04.12-15.14.33:026][672]LogModuleManager: Shutting down and abandoning module SoundFields (200)
+[2022.04.12-15.14.33:026][672]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (198)
+[2022.04.12-15.14.33:026][672]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (196)
+[2022.04.12-15.14.33:026][672]LogModuleManager: Shutting down and abandoning module ActorSequence (194)
+[2022.04.12-15.14.33:026][672]LogModuleManager: Shutting down and abandoning module UdpMessaging (192)
+[2022.04.12-15.14.33:026][672]LogModuleManager: Shutting down and abandoning module TcpMessaging (190)
+[2022.04.12-15.14.33:026][672]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (188)
+[2022.04.12-15.14.33:026][672]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (186)
+[2022.04.12-15.14.33:026][672]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (184)
+[2022.04.12-15.14.33:026][672]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (182)
+[2022.04.12-15.14.33:026][672]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (180)
+[2022.04.12-15.14.33:026][672]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (178)
+[2022.04.12-15.14.33:026][672]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (176)
+[2022.04.12-15.14.33:026][672]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (174)
+[2022.04.12-15.14.33:026][672]LogModuleManager: Shutting down and abandoning module MagicLeapController (172)
+[2022.04.12-15.14.33:026][672]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.04.12-15.14.33:026][672]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (170)
+[2022.04.12-15.14.33:026][672]LogModuleManager: Shutting down and abandoning module MagicLeapAR (168)
+[2022.04.12-15.14.33:026][672]LogModuleManager: Shutting down and abandoning module AugmentedReality (167)
+[2022.04.12-15.14.33:027][672]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (164)
+[2022.04.12-15.14.33:027][672]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (162)
+[2022.04.12-15.14.33:027][672]LogModuleManager: Shutting down and abandoning module Niagara (160)
+[2022.04.12-15.14.33:027][672]LogModuleManager: Shutting down and abandoning module SignalProcessing (159)
+[2022.04.12-15.14.33:027][672]LogModuleManager: Shutting down and abandoning module NiagaraCore (156)
+[2022.04.12-15.14.33:027][672]LogModuleManager: Shutting down and abandoning module FacialAnimation (154)
+[2022.04.12-15.14.33:027][672]LogModuleManager: Shutting down and abandoning module SignificanceManager (152)
+[2022.04.12-15.14.33:027][672]LogModuleManager: Shutting down and abandoning module AnimationSharing (150)
+[2022.04.12-15.14.33:027][672]LogModuleManager: Shutting down and abandoning module Paper2D (148)
+[2022.04.12-15.14.33:027][672]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (146)
+[2022.04.12-15.14.33:028][672]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (144)
+[2022.04.12-15.14.33:028][672]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (142)
+[2022.04.12-15.14.33:028][672]LogModuleManager: Shutting down and abandoning module PacketHandler (140)
+[2022.04.12-15.14.33:028][672]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (138)
+[2022.04.12-15.14.33:029][672]LogModuleManager: Shutting down and abandoning module MediaAssets (136)
+[2022.04.12-15.14.33:029][672]LogModuleManager: Shutting down and abandoning module Overlay (134)
+[2022.04.12-15.14.33:029][672]LogModuleManager: Shutting down and abandoning module FunctionalTesting (132)
+[2022.04.12-15.14.33:029][672]LogModuleManager: Shutting down and abandoning module EditorStyle (130)
+[2022.04.12-15.14.33:029][672]LogModuleManager: Shutting down and abandoning module MessageLog (128)
+[2022.04.12-15.14.33:029][672]LogModuleManager: Shutting down and abandoning module UMG (126)
+[2022.04.12-15.14.33:029][672]LogModuleManager: Shutting down and abandoning module SlateReflector (124)
+[2022.04.12-15.14.33:029][672]LogModuleManager: Shutting down and abandoning module Slate (122)
+[2022.04.12-15.14.33:029][672]LogModuleManager: Shutting down and abandoning module SlateCore (120)
+[2022.04.12-15.14.33:032][672]LogModuleManager: Shutting down and abandoning module MRMesh (118)
+[2022.04.12-15.14.33:032][672]LogModuleManager: Shutting down and abandoning module Messaging (116)
+[2022.04.12-15.14.33:032][672]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (114)
+[2022.04.12-15.14.33:032][672]LogModuleManager: Shutting down and abandoning module XAudio2 (112)
+[2022.04.12-15.14.33:033][672]LogModuleManager: Shutting down and abandoning module Networking (110)
+[2022.04.12-15.14.33:033][672]LogModuleManager: Shutting down and abandoning module Core (108)
+[2022.04.12-15.14.33:033][672]LogModuleManager: Shutting down and abandoning module ImageWrapper (104)
+[2022.04.12-15.14.33:033][672]LogModuleManager: Shutting down and abandoning module InputCore (102)
+[2022.04.12-15.14.33:033][672]LogModuleManager: Shutting down and abandoning module Settings (100)
+[2022.04.12-15.14.33:033][672]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (98)
+[2022.04.12-15.14.33:033][672]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2022.04.12-15.14.33:033][672]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2022.04.12-15.14.33:033][672]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2022.04.12-15.14.33:033][672]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2022.04.12-15.14.33:033][672]LogModuleManager: Shutting down and abandoning module AVEncoder (90)
+[2022.04.12-15.14.33:033][672]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (86)
+[2022.04.12-15.14.33:033][672]LogModuleManager: Shutting down and abandoning module SteamVRInput (84)
+[2022.04.12-15.14.33:033][672]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2022.04.12-15.14.33:033][672]LogHMD: Freeing OpenVRDLLHandle.
+[2022.04.12-15.14.33:033][672]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2022.04.12-15.14.33:033][672]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2022.04.12-15.14.33:033][672]LogModuleManager: Shutting down and abandoning module ChunkDownloader (76)
+[2022.04.12-15.14.33:033][672]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2022.04.12-15.14.33:033][672]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2022.04.12-15.14.33:034][672]LogModuleManager: Shutting down and abandoning module HTTP (65)
+[2022.04.12-15.14.33:034][672]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.04.12-15.14.33:055][672]LogModuleManager: Shutting down and abandoning module SSL (64)
+[2022.04.12-15.14.33:055][672]LogModuleManager: Shutting down and abandoning module WmfMedia (60)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module Media (59)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (56)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module MLSDK (54)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module MagicLeap (52)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (50)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module NiagaraShader (48)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module HairStrandsCore (46)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module ChaosCloth (44)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module VariantManagerContent (42)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module AISupportModule (38)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (36)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (34)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module PlatformCrypto (32)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.04.12-15.14.33:056][672]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.04.12-15.14.33:057][672]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.04.12-15.14.33:057][672]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.04.12-15.14.33:058][672]LogD3D11RHI: Shutdown
+[2022.04.12-15.14.33:058][672]LogD3D11RHI: CleanupD3DDevice
+[2022.04.12-15.14.33:064][672]LogExit: Exiting.
+[2022.04.12-15.14.33:071][672]Log file closed, 04/12/22 17:14:33
